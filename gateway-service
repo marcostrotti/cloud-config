@@ -1,0 +1,5 @@
+server:
+  port: 8000
+ribbon
+  eureka:
+    enabled:false
